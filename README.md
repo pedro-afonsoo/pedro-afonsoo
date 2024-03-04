@@ -37,7 +37,7 @@ Breve descrição do projeto e suas tecnologias principais.
 ## Contato
 
 - **E-mail:** pedroafonsomachado116@gmail.com
-- **Instagram:** pedro__afonsoo
+- **Instagram:** [https://www.instagram.com/pedro__afonsoo/?hl=pt-br]
 - **LinkedIn:** [Seu Perfil no LinkedIn]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
