@@ -198,6 +198,8 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
 <img src="https://img.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
 <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <br />
+
+ 
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=pedro-afonsoo"/>
 <img alt="Forks" src="https://img.shields.io/github/forks/pedro-afonsoo/pedro-afonsoo?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
