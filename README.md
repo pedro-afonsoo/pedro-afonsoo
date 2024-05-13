@@ -172,7 +172,10 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedro-afonsoo&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedro-afonsoo&theme=github_dark"/>
 </div>
------
+
+
+
+
 <div>
 <div>
 <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
