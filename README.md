@@ -13,20 +13,20 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://https://github.com/pedro-afonsoo" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://https://github.com/pedro-afonsoo" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:pedroafonsomachado116@gmail.com" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:pedroafonsomachado116@gmail.com" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980216040" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531980216040" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pedro__afonsoo/" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pedro__afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-afonso-788456305/" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-afonso-788456305/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
 <div>
 <details>
 <summary>< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-< src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
@@ -219,35 +219,35 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
  <td align="center" colspan="1"></td>
 </tr> 
 <tr>
-<td><a href="https://pythonmg.github.io/" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
+<td><a href="https://pythonmg.github.io/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//pythonmg.png?raw=true" width="70px" height="70px"/></a></td>
 </tr>
 <tr>
  <td align="center" colspan="1"></td>
 </tr> 
 </table>
-< src="https://.shields.io/badge/Python-Expert-blue?logo=Python"/>
-< src="https://.shields.io/badge/Java-Expert-blue"/>
-< src="https://.shields.io/badge/C-Enthusiast-blue"/>
-< src="https://.shields.io/badge/TDD-Advocate-blue"/>
-< src="https://.shields.io/badge/Clean%20Code-Evangelist-blue"/>
-< src="https://.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
+<img src="https://.shields.io/badge/Python-Expert-blue?logo=Python"/>
+<img src="https://.shields.io/badge/Java-Expert-blue"/>
+<img src="https://.shields.io/badge/C-Enthusiast-blue"/>
+<img src="https://.shields.io/badge/TDD-Advocate-blue"/>
+<img src="https://.shields.io/badge/Clean%20Code-Evangelist-blue"/>
+<img src="https://.shields.io/badge/Open%20Source-Lover-blue?logo=opensourceinitiative"/>
 <br />
-< src="https://.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
-< src="https://.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
-< src="https://.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
-< src="https://.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
-< src="https://.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
-< src="https://.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
-< src="https://.shields.io/badge/Docker-Dev-blue?logo=docker"/>
-< src="https://.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
-< src="https://.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
+<img src="https://.shields.io/badge/Flask-Dev-blue?logo=Flask"/>
+<img src="https://.shields.io/badge/FastAPI-Dev-blue?logo=FastAPI"/>
+<img src="https://.shields.io/badge/JavaScript-Dev-blue?logo=javascript"/>
+<img src="https://.shields.io/badge/Node.js-Dev-blue?logo=Node.js"/>
+<img src="https://.shields.io/badge/Next.js-Dev-blue?logo=Next.js"/>
+<img src="https://.shields.io/badge/AWS-Dev-blue?logo=amazonaws"/>
+<img src="https://.shields.io/badge/Docker-Dev-blue?logo=docker"/>
+<img src="https://.shields.io/badge/Grafana-Dev-blue?logo=grafana"/>
+<img src="https://.shields.io/badge/New%20Relic-Dev-blue?logo=newrelic"/>
 <a href="https://github.com/pythonmg" target="_blank">< alt="Python-MG" src="https://.shields.io/badge/Siga%20a%20comunidade%20mineira%20de%20python%3A-Python--MG-blue?logo=Python"/></a>
-< src="https://.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
-< src="https://.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
+<img src="https://.shields.io/badge/OS-macOS-informational?logo=apple&logoColor=white"/>
+<img src="https://.shields.io/badge/OS-Linux-informational?logo=linux&logoColor=white"/>
 <br />
 < alt="Profile visitors" src="https://komarev.com/ghpvc/?username=pedro-afonsoo"/>
 < alt="Forks" src="https://.shields.io/github/forks/pedro-afonsoo/pedro-afonsoo?logo=git"/>
-<a href="https://stars.github.com/nominate/" target="_blank">< src="https://.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
+<a href="https://stars.github.com/nominate/" target="_blank"><img src="https://.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 < alt="Lines of code" src="https://.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
 < alt="Followers" src="https://.shields.io/github/followers/pedro-afonsoo?style=social"/>
@@ -263,7 +263,7 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td>< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+<td><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
 <a href="https://www.linkedin.com/in/pedro-afonsoo/" target="_blank">< alt="Linkedin" src="https://.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -377,7 +377,7 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/pedro-afonsoo" target="_blank">< src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//logo.png?raw=true" width="50px" height="50px"/></a>
+<a href="https://github.com/pedro-afonsoo" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//logo.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td>
 | Créditos: <a href="https://github.com/pedro-afonsoo" target="_blank">© 2024 Aramuni</a><br />
