@@ -218,7 +218,7 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
  <td align="center" colspan="1">Pix</td>
 </tr> 
 <tr>
-<td><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/qrcode-pix.png?raw=true" width="70px" height="70px"/></td>
+<td><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/qrcode-pix.jpeg?raw=true" width="70px" height="70px"/></td>
 </tr>
 </table>
 
