@@ -22,7 +22,7 @@
 </td>
 <td><a href="https://www.instagram.com/pedro__afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-afonso-788456305/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -220,7 +220,7 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
 </tr>
 </table>
 
-<a href="https://www.linkedin.com/in/pedro-afonsoo/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pedro-afonso-788456305/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:pedroafonsomachado116@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <a href="https://wa.me/5531980216040" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
