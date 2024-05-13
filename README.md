@@ -20,7 +20,7 @@
 </td>
 <td><a href="https://wa.me/5531980216040" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pedro-afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pedro__afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://www.linkedin.com/in/pedro-afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -224,7 +224,7 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
 <a href="mailto:pedroafonsomachado116@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <a href="https://wa.me/5531980216040" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/pedro-afonsoo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/pedro__afonsoo/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <a href="https://gitlab.com/pedro-afonsoo" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/pedro-afonsoo" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
