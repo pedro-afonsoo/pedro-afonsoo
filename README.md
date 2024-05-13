@@ -44,15 +44,13 @@
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-Olá! Sou um jovem apaixonado pela tecnologia, nascido e criado nas vibrantes ruas de Belo Horizonte. Desde cedo, fui cativado pelo mundo da programação e do desenvolvimento de software.
+Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Horizonte. Desde os primeiros anos de minha formação, fui cativado pelo dinamismo e pelas possibilidades oferecidas pelo campo da tecnologia, moldando assim minha trajetória.
 
-Meus primeiros passos nesse universo foram no Colégio Marista Padre Eustáquio, onde comecei a explorar os fundamentos da computação. Essa jornada despertou em mim uma curiosidade incessante e um desejo de aprofundar meus conhecimentos.
+Iniciei minha jornada no <a href="https://marista.edu.br/padreeustaquio//" target="_blank">Colégio Marista Padre Eustáquio</a>, onde adentrei os alicerces da computação e dei os primeiros passos em direção ao meu atual percurso. Essa fase de descoberta despertou em mim uma inextinguível curiosidade e um anseio por aprofundar meu entendimento.
 
-Atualmente, aos 18 anos de idade, estou mergulhado em dois caminhos empolgantes: sou um desenvolvedor em ascensão e um estudante dedicado de Engenharia de Software na PUC Minas. A combinação dessas duas paixões me permite explorar novos horizontes e desafiar-me constantemente.
+Hoje, aos 18 anos de idade, embarco em uma jornada dualmente estimulante. Atuo como desenvolvedor em ascensão e como estudante comprometido de Engenharia de Software na renomada <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. A combinação dessas duas paixões me proporciona um terreno fértil para a exploração intelectual e o desafio constante.
 
-Estou sempre em busca de oportunidades para expandir meu conhecimento, colaborar em projetos inovadores e contribuir para o avanço da tecnologia. Com uma mente inquisitiva e determinada, estou pronto para enfrentar os desafios que o futuro reserva e transformar minhas paixões em realizações concretas.
-
-Seja bem-vindo a conhecer mais sobre minha jornada e minhas aspirações neste emocionante mundo da tecnologia e da engenharia de software!
+Estou constantemente em busca de oportunidades para expandir meu repertório de conhecimento, engajar-me em projetos de vanguarda e contribuir para o avanço da tecnologia. Equipado com uma mente inquisitiva e uma determinação inabalável, estou preparado para enfrentar os desafios que o porvir reserva e concretizar minhas ambições neste vasto e empolgante campo.
 </div>
 
 -----
