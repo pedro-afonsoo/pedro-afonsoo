@@ -177,17 +177,6 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
 
 <div>
 <div>
-
-
-
-
-
-
-
-
-
-
-
 -----
 <img src="https://img.shields.io/badge/Python-Expert-blue?logo=Python"/>
 <img src="https://img.shields.io/badge/Java-Expert-blue"/>
