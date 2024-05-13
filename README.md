@@ -80,97 +80,97 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
 
 < height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank">< height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//bash.png?raw=true"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//bash.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.python.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//python.png?raw=true"/></a></code>
+<code><a href="https://www.python.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//python.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//c.png?raw=true"/></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//c.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://isocpp.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//cpp.svg?raw=true"/></a></code>
+<code><a href="https://isocpp.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//cpp.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//csharp.png?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//csharp.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.java.com/pt-BR/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://openjfx.io/" target="_blank">< height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//javafx.png?raw=true"/></a></code>
+<code><a href="https://openjfx.io/" target="_blank"><<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//javafx.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.primefaces.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//primefaces.png?raw=true"/></a></code>
+<code><a href="https://www.primefaces.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//primefaces.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://spring.io/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//spring.png?raw=true"/></a></code>
+<code><a href="https://spring.io/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//spring.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.playframework.com/" target="_blank">< width="48" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//play.png?raw=true"/></a></code>
+<code><a href="https://www.playframework.com/" target="_blank">< width="48"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//play.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.scala-lang.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//scala.png?raw=true"/></a></code>
+<code><a href="https://www.scala-lang.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//scala.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jenkins.io/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//jenkins.svg?raw=true"/></a></code>
+<code><a href="https://www.jenkins.io/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//jenkins.svg?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.w3schools.com/html/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//html.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/html/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//html.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/css/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//css.svg?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/css/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//css.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/js/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//js.png?raw=true"/></a></code>
+<code><a href="https://www.w3schools.com/js/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//js.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://pt-br.reactjs.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//react.png?raw=true"/></a></code>
+<code><a href="https://pt-br.reactjs.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//react.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//vbs.png?raw=true"/></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/windows/win32/lwef/using-vbscript" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//vbs.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mysql.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//mysql.png?raw=true"/></a></code>
+<code><a href="https://www.mysql.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//mysql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.postgresql.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//postgresql.png?raw=true"/></a></code>
+<code><a href="https://www.postgresql.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//postgresql.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.mongodb.com/pt-br" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//mongodb.png?raw=true"/></a></code>
+<code><a href="https://www.mongodb.com/pt-br" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//mongodb.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://dbeaver.io/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//dbeaver.png?raw=true"/></a></code>
+<code><a href="https://dbeaver.io/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//dbeaver.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//nodejs.png?raw=true"/></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//nodejs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://nextjs.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//nextjs.png?raw=true"/></a></code>
+<code><a href="https://nextjs.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//nextjs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://jestjs.io/pt-BR/" target="_blank">< width="30" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//jest.png?raw=true"/></a></code>
+<code><a href="https://jestjs.io/pt-BR/" target="_blank">< width="30"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//jest.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://prometheus.io/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//prometheus.png?raw=true"/></a></code>
+<code><a href="https://prometheus.io/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//prometheus.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://grafana.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//grafana.png?raw=true"/></a></code>
+<code><a href="https://grafana.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//grafana.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://newrelic.com/pt" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//newrelic.png?raw=true"/></a></code>
+<code><a href="https://newrelic.com/pt" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//newrelic.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://fastapi.tiangolo.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//fastapi.svg?raw=true"/></a></code>
+<code><a href="https://fastapi.tiangolo.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//fastapi.svg?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.docker.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//docker.png?raw=true"/></a></code>
+<code><a href="https://www.docker.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//docker.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://aws.amazon.com/pt/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//aws.png?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//aws.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.heroku.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//heroku.png?raw=true"/></a></code>
+<code><a href="https://www.heroku.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//heroku.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//dotnet.png?raw=true"/></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//dotnet.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.postman.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//postman.png?raw=true"/></a></code>
+<code><a href="https://www.postman.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//postman.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://insomnia.rest/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//insomnia.png?raw=true"/></a></code>
+<code><a href="https://insomnia.rest/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//insomnia.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.soapui.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//soap.png?raw=true"/></a></code>
+<code><a href="https://www.soapui.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//soap.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://redis.io/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//redis.png?raw=true"/></a></code>
+<code><a href="https://redis.io/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//redis.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://aws.amazon.com/pt/s3/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//s3.svg?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/s3/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//s3.svg?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//sqs.png?raw=true"/></a></code>
+<code><a href="https://aws.amazon.com/pt/sqs/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//sqs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://git-scm.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//git.png?raw=true"/></a></code>
+<code><a href="https://git-scm.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//git.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://about.gitlab.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//gitlab.png?raw=true"/></a></code>
+<code><a href="https://about.gitlab.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//gitlab.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//pc.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/pt-br/pycharm/download/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//pc.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.eclipse.org/downloads/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//eclipse.png?raw=true"/></a></code>
+<code><a href="https://www.eclipse.org/downloads/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//eclipse.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://netbeans.apache.org/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//netbeans.png?raw=true"/></a></code>
+<code><a href="https://netbeans.apache.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//netbeans.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://code.visualstudio.com/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//vs.png?raw=true"/></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//vs.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://www.jetbrains.com/idea/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//intellij.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//intellij.png?raw=true"/></a></code>
 &nbsp;
-<code><a href="https://developer.apple.com/xcode/" target="_blank">< width="32" height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//xcode.png?raw=true"/></a></code>
+<code><a href="https://developer.apple.com/xcode/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//xcode.png?raw=true"/></a></code>
 </div>
 
 -----
