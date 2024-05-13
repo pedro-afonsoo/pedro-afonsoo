@@ -3,7 +3,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/header2.png?raw=true"/>
 </div>
 -----
 
@@ -13,20 +13,20 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://https://github.com/pedro-afonsoo" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://https://github.com/pedro-afonsoo" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:pedroafonsomachado116@gmail.com" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:pedroafonsomachado116@gmail.com" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531980216040" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531980216040" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/pedro__afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/pedro__afonsoo/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/pedro-afonso-788456305/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/pedro-afonso-788456305/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/calendar2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@
 
 -----
 
-< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/soulgem.gif?raw=true"/>Sobre mim:
+< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
 Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Horizonte. Desde os primeiros anos de minha formação, fui cativado pelo dinamismo e pelas possibilidades oferecidas pelo campo da tecnologia, moldando assim minha trajetória.
@@ -57,10 +57,10 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
 
 <div>
 <div>
-< align="right" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+< align="right" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 
-< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
@@ -78,7 +78,7 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
 
 <div>
 
-< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+< height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
 <code><a href="https://www.gnu.org/software/bash/" target="_blank">< height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//bash.png?raw=true"/></a></code>
 &nbsp; 
