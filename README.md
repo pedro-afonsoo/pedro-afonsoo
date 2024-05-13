@@ -278,9 +278,6 @@ Sou um indivíduo jovem e empreendedor, oriundo e enraizado na cidade de Belo Ho
 </tr> 
 <tr>
 <td>
-<a href="https://github.com/pedro-afonsoo" target="_blank"><img src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
 | Créditos: <a href="https://github.com/pedro-afonsoo" target="_blank">© 2024 Pedro Afonso</a><br />
 | Última atualização: 13/05/2024
 </td>
