@@ -80,7 +80,7 @@ Estou constantemente em busca de oportunidades para expandir meu repertório de 
 
 < height="20" alt="GIF" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//bash.png?raw=true"/></a></code>
+<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//bash.png?raw=true"/></a></code>
 &nbsp; 
 <code><a href="https://www.python.org/" target="_blank">< width="32"<img height="32" src="https://github.com/pedro-afonsoo/pedro-afonsoo/blob/main//python.png?raw=true"/></a></code>
 &nbsp; 
